@@ -219,6 +219,15 @@ header{
 .btn:hover{
     background: #659ec7;
 }
-
-
-
+/* section 4 */
+.s4_wr{
+    padding: 100px 16px;
+}
+.s4 img{
+    border: 1px solid #F8F8F8;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 122px;
+    width: 200px;
+    margin-right: 20px;
+}
